@@ -16,7 +16,7 @@
 				<key>bundle-version</key>
 				<string>5.0.2</string>
 				<key>bundle-identifier</key>
-				<string>corg.telegram.TelegramHD</string>
+				<string>org.telegram.TelegramHD</string>
 			</dict>
 			<key>assets</key>
 			<array>

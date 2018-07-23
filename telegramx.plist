@@ -8,21 +8,21 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>telegramx</string>
+				<string>telegramx</string><!--应用名-->
 				<key>subtitle</key>
-				<string>副标题</string>
+				<string>Telegram LLC</string><!--副标题-->
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-version</key>
-				<string>5.0.2</string>
+				<string>5.0.2</string> <!--版本号-->
 				<key>bundle-identifier</key>
-				<string>org.telegram.TelegramHD</string>
+				<string>org.telegram.TelegramHD</string> <!--包名-->
 			</dict>
 			<key>assets</key>
 			<array>
 				<dict>
 					<key>url</key>
-					<string>https://github.com/poniteru/gitpagetest/releases/download/v1.0/telegramx.ipa</string>
+					<string>https://github.com/poniteru/gitpagetest/releases/download/v1.0/telegramx.ipa</string><!--下载地址，可以不是https-->
 					<key>kind</key>
 					<string>software-package</string>
 				</dict>

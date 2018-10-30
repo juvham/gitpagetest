@@ -22,7 +22,7 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>https://github.com/poniteru/gitpagetest/releases/download/v1.0/telegramxenterprise.ipa</string><!--下载地址，可以不是https-->
+					<string>https://github.com/poniteru/gitpagetest/releases/download/v1.0/telegramx5.ipa</string><!--下载地址，可以不是https-->
 					<key>kind</key>
 					<string>software-package</string>
 				</dict>
